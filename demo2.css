@@ -1,0 +1,42 @@
+body {
+font-family: "Times New Roman", Georgia, Serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+
+.box
+{
+width:60%;
+height:50px;
+border-radius:4px;
+padding-left:10px;
+border: 1px solid black;
+}
+
+background-image{
+opacity:0.7;
+}
+
+
+#myDIV {
+    -webkit-animation: mymove 2s infinite; 
+    animation: mymove 2s infinite;
+}
+
+
+@-webkit-keyframes mymove {
+    50%{text-shadow: 10px 10px 10px white;
+	}
+}
+
+@keyframes mymove {
+    50% {text-shadow: 10px 10px 10px white;
+	}
+}
+
+
+</style>
+<body style="background-color:#8c8c8c;">
