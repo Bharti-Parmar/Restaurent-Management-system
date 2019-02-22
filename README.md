@@ -1,6 +1,6 @@
 # Restaurent Management system
 
-A platform where admin uploaded a different dishe videos and user can see dish videos or images.
+A platform where admin uploaded a different dishes videos and user can see dish videos or images.
 
 # Language Use
 
